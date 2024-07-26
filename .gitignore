@@ -1,0 +1,5 @@
+*.o
+SDLaffgif
+gif2tga
+tmp/
+*.d
